@@ -1,0 +1,17 @@
+gunicorn
+Flask
+Jinja2
+Werkzeug
+bokeh==0.13.0
+dash
+matplotlib
+numpy
+pandas
+scipy
+scikit-learn
+dash
+dash-core-components
+dash-html-components
+dash-renderer
+dash-table-experiments
+
