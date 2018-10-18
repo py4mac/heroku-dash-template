@@ -1,5 +1,5 @@
 
-# Heroku Docker Templates [![heroku-templates](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/py4mac/heroku-dash-template)
+# Heroku Docker Templates
 
 This project aims to setup an Heroku Docker Templates Project.
 The following template projects use docker-compose.
